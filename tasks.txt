@@ -1,0 +1,7 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+cns1r7cl1, Testing, Test input, 10 Apr 2024, 03 Jun 2024, No
+Atlas, Example, Htuibrf agubiaorvb arbgvuiqo a buiroab, 10 Dec 2024, 03 Jun 2024, No
+cns1r7cl1, Cleaning equipment, Shutdown open and clean all equipemnt available, 10 Oct 2024, 03 Jun 2024, No
+cns1r7cl1, Testing date function, Test whether the correct date is being sotred in the textfile, 9 Oct 2024, 06 Jun 2024, No
+david, Add_task(), Testing user-define function add_task(), 9 May 2024, 07 Jun 2024, No
